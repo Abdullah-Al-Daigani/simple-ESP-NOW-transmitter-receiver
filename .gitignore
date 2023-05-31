@@ -1,0 +1,11 @@
+.transmitter/pio
+.transmitter/vscode/.browse.c_cpp.db*
+.transmitter/vscode/c_cpp_properties.json
+.transmitter/vscode/launch.json
+.transmitter/vscode/ipch
+
+.receiver/pio
+.receiver/vscode/.browse.c_cpp.db*
+.receiver/vscode/c_cpp_properties.json
+.receiver/vscode/launch.json
+.receiver/vscode/ipch
